@@ -2,5 +2,10 @@
 
 For now just:
 
-```npm install````
-```babel gulp serve````
+```npm install```
+
+wait
+
+```babel gulp serve```
+
+go nuts... and wait for more documentation.
