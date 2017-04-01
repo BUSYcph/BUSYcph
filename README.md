@@ -3,4 +3,4 @@
 For now just:
 
 ```npm install````
-```babel gulp serve````
+```gulp serve````
